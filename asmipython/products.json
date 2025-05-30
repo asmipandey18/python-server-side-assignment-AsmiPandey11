@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Noodles",
+        "price": 50,
+        "quantity": 6
+    },
+    {
+        "name": "Biscuits",
+        "price": 10,
+        "quantity": 3
+    },
+    {
+        "name": "chocolate",
+        "price": 100,
+        "quantity": 9
+    }
+]
