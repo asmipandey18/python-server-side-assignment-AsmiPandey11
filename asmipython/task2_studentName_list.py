@@ -10,7 +10,7 @@ for i in range(num_students):
 filename = "student.txt"
 with open(filename,"w") as file:
     for name in student:
-        file.write(f"{name}\n") 
+        file.write(f"{name}\n")
 
 print("\nStudent name are written successfully to file")
 
